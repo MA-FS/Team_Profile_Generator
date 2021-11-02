@@ -1,0 +1,26 @@
+{
+  "name": "Team_Profile_Generator",
+  "version": "1.0.0",
+  "description": "Software team CLI HTML generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MA-FS/Team_Profile_Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MA-FS/Team_Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/MA-FS/Team_Profile_Generator#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
